@@ -1,1 +1,37 @@
 /* All styles for your header Components live here */
+
+.header-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    border: 1px solid red;
+}
+
+.thumbnail {
+    width: 50px;
+    padding: 10px;
+    border: 1px solid green;
+}
+
+.header-title {
+    display: flex;
+    flex-direction: row;
+    width: 37%;
+    border: 1px solid orange;
+    justify-content: space-between;
+    padding-left: 5px;
+}
+
+.school-name {
+    font-weight: bold;
+}
+
+.school-handle, .date {
+    color: gray;
+}
+
+.header-content {
+    width: 70%;
+    padding-left: 75px;
+    line-height: 1.4;
+}
