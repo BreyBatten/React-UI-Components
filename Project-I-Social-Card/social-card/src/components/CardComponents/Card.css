@@ -1,1 +1,20 @@
 /* All styles for your Card Components live here */
+
+.card-container {
+    width: 45.6%;
+    padding-left: 73px;
+    border: 1px solid purple;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-p {
+    width: 45%;
+    line-height: 1.4;
+}
+
+.banner {
+    width: 75%;
+}
