@@ -1,0 +1,18 @@
+button {
+    width: 25%;
+    padding: 70px 0px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.clearButton, .zeroButton{
+    width: 75%;
+}
+
+.actionButton {
+    background-color: darkred;
+    color: white;
+    font-size: 40px;
+}
